@@ -1,2 +1,2 @@
 #!/bin/bash
-'delete_backup_files.sh'
+rm *~
